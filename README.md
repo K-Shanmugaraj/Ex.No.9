@@ -1,6 +1,6 @@
 # Ex. No. 9 – Exploration of Prompting Techniques for Video Generation  
 
-**DATE:   23-05-2026**           <br>                                                             
+**DATE:   23-05-2026**                                                           
 **REGISTER NUMBER : 212223040192** <br>
 **NAME: Shanmuga Raj.K**
 
