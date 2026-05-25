@@ -69,7 +69,17 @@ Video generated using HeyGen and Gemini with refined cinematic prompts.
 ## 3. Prompts Used
 **Basic Prompt**
 > “A futuristic city at night.”
-<video src="VID-20260525-WA0022.mp4" controls width="700"></video>
+
+
+
+
+https://github.com/user-attachments/assets/10fbc6be-4e01-4eb1-8665-42c0bf3a9cae
+
+
+
+
+
+
 **Refined Prompt**
 
 “A futuristic cyberpunk city at night with glowing neon lights, rainy reflective streets, flying cars, holographic advertisements, and cinematic lighting.”
