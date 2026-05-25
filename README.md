@@ -1,7 +1,7 @@
 # Ex. No. 9 – Exploration of Prompting Techniques for Video Generation  
 
-**DATE:   23-05-2026**                                                                        
-**REGISTER NUMBER : 212223040192**
+**DATE:   23-05-2026**           <br>                                                             
+**REGISTER NUMBER : 212223040192** <br>
 **NAME: Shanmuga Raj.K**
 
 ## Aim  
@@ -69,7 +69,7 @@ Video generated using HeyGen and Gemini with refined cinematic prompts.
 ## 3. Prompts Used
 **Basic Prompt**
 > “A futuristic city at night.”
-
+<video src="VID-20260525-WA0022.mp4" controls width="700"></video>
 **Refined Prompt**
 
 “A futuristic cyberpunk city at night with glowing neon lights, rainy reflective streets, flying cars, holographic advertisements, and cinematic lighting.”
