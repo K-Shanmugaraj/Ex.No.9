@@ -69,39 +69,35 @@ Video generated using HeyGen and Gemini with refined cinematic prompts.
 ## 3. Prompts Used
 **Basic Prompt**
 > “A futuristic city at night.”
-
-
-
-
 https://github.com/user-attachments/assets/10fbc6be-4e01-4eb1-8665-42c0bf3a9cae
-
-
-
-
-
-
 **Refined Prompt**
-
 “A futuristic cyberpunk city at night with glowing neon lights, rainy reflective streets, flying cars, holographic advertisements, and cinematic lighting.”
+
+
+https://github.com/user-attachments/assets/737553de-adb4-48c1-a5e4-c8d516d2f521
+
 
 **Advanced Prompt**
 “An ultra-realistic cyberpunk city at night filled with glowing neon signs, flying vehicles, rainy reflective streets, holographic advertisements, and towering futuristic skyscrapers. Slow cinematic drone camera movement through crowded city streets with volumetric lighting, fog effects, realistic reflections, dramatic atmosphere, highly detailed sci-fi environment, cinematic 4K video style.”
 
-### 4. Comparison Report  
 
-| Aspect                  | Original Video | Generated Video | Notes / Improvements |
-|--------------------------|----------------|-----------------|-----------------------|
-| **Subjects**             | Mountains, river, trees | Mountains, river, trees | Matches well |
-| **Colors**               | Natural sunset hues (orange, pink, purple) | Slightly more saturated orange, pink, purple | Adjust color intensity for realism |
-| **River Reflection**     | Smooth reflection of sunset sky | Reflection reproduced effectively | Very close match |
-| **Tree Density**         | Moderate, more trees visible | Fewer trees along the bank | Add details: “dense forest on the left bank” |
-| **Clouds**               | Natural soft clouds | Different cloud shapes and motion | Refine with prompt: “soft pastel clouds” |
-| **Mood/Style**           | Realistic cinematic | More vivid, slightly dreamy | Adjust mood (dreamy vs realistic) |
-| **Camera Perspective**   | Wide-angle valley view | Not explicitly controlled | Add prompt: “wide-angle shot from valley viewpoint” |
+https://github.com/user-attachments/assets/a1506daf-1ade-4651-8622-89fcd22f6cdf
+
+
+### 4. Comparison Report  
+| Aspect            | Original Video               | Generated Video                | Notes / Improvements          |
+| ----------------- | ---------------------------- | ------------------------------ | ----------------------------- |
+| Buildings         | Dense futuristic skyscrapers | Similar cyberpunk buildings    | Good similarity               |
+| Neon Lighting     | Blue and pink neon glow      | Slightly brighter lighting     | Reduce glow intensity         |
+| Flying Cars       | Smooth aerial traffic        | Vehicles generated accurately  | Motion improved               |
+| Road Reflections  | Wet reflective roads         | Reflections reproduced well    | Very close match              |
+| Atmosphere        | Foggy cinematic mood         | Slightly more vivid atmosphere | Add realistic fog details     |
+| Camera Motion     | Slow cinematic movement      | Smooth movement generated      | Good cinematic effect         |
+| Color Style       | Dark cyberpunk tones         | More saturated neon colors     | Reduce saturation slightly    |
+| Scene Consistency | Continuous city environment  | Mostly consistent scenes       | Improve transition smoothness |
+
 
 
 
 ## Conclusion:
-
-
-By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
+By using detailed and carefully refined prompts, AI-based text-to-video generation systems can effectively reproduce realistic cinematic videos. The quality of the generated video depends greatly on how accurately the prompt describes scene details, lighting, atmosphere, textures, and motion. The experiment demonstrates the importance of prompt engineering and iterative refinement in improving video realism, cinematic quality, and scene consistency.
