@@ -69,6 +69,7 @@ Video generated using HeyGen and Gemini with refined cinematic prompts.
 ## 3. Prompts Used
 **Basic Prompt**
 > “A futuristic city at night.”
+
 https://github.com/user-attachments/assets/10fbc6be-4e01-4eb1-8665-42c0bf3a9cae
 
 
