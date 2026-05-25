@@ -75,14 +75,14 @@ https://github.com/user-attachments/assets/10fbc6be-4e01-4eb1-8665-42c0bf3a9cae
 
 
 **Refined Prompt**
-“A futuristic cyberpunk city at night with glowing neon lights, rainy reflective streets, flying cars, holographic advertisements, and cinematic lighting.”
+> “A futuristic cyberpunk city at night with glowing neon lights, rainy reflective streets, flying cars, holographic advertisements, and cinematic lighting.”
 
 
 https://github.com/user-attachments/assets/737553de-adb4-48c1-a5e4-c8d516d2f521
 
 
 **Advanced Prompt**
-“An ultra-realistic cyberpunk city at night filled with glowing neon signs, flying vehicles, rainy reflective streets, holographic advertisements, and towering futuristic skyscrapers. Slow cinematic drone camera movement through crowded city streets with volumetric lighting, fog effects, realistic reflections, dramatic atmosphere, highly detailed sci-fi environment, cinematic 4K video style.”
+> “An ultra-realistic cyberpunk city at night filled with glowing neon signs, flying vehicles, rainy reflective streets, holographic advertisements, and towering futuristic skyscrapers. Slow cinematic drone camera movement through crowded city streets with volumetric lighting, fog effects, realistic reflections, dramatic atmosphere, highly detailed sci-fi environment, cinematic 4K video style.”
 
 
 https://github.com/user-attachments/assets/a1506daf-1ade-4651-8622-89fcd22f6cdf
